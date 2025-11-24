@@ -1,8 +1,6 @@
-function toggleMenue(){
+/*function toggleMenue(){
     const menu = document.querySelector(".menu-links");
-    const icon = document.querySelector(".second-icon");
+    const icon = document.querySelector(".hamburger-icon");
     menu.classList.toggle("open");
     icon.classList.toggle("open");
-
-
 }
